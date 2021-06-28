@@ -1,6 +1,6 @@
 ## Hello! I am Leah Nakaima
 
-You can use the [editor on GitHub](https://github.com/Leahnakaima/Leahnakaima/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a master's in public policy graduate from the Harvard University, John F. Kennedy School of Government. Additionally, I am an adaptable, detail-oriented, and agile public policy expert with experience in project management, executive communication and presentation, policy research, analysis and writing, and multi-stakeholder management. I have strong interpersonal, planning, and organizationalskills, and I am very passionate about shared value and bringing new pharmaceutical innovations to patients.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
