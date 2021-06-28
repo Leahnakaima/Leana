@@ -1,5 +1,5 @@
 ![](image.png)
-![image](C:\Users\lnaka\OneDrive\Pictures\Camera Roll\Leahweb.jpg)
+![image](Users\lnaka\OneDrive\Pictures\Camera Roll\Leahweb.jpg)
 ## Hello! I am Leah Nakaima
 
 I am a master's in public policy graduate from the Harvard University, John F. Kennedy School of Government. Additionally, I am an adaptable, detail-oriented, and agile public policy expert with experience in project management, executive communication and presentation, policy research, analysis and writing, and multi-stakeholder management. I have strong interpersonal, planning, and organizationalskills, and I am very passionate about shared value and bringing new pharmaceutical innovations to patients.
