@@ -1,5 +1,5 @@
 
-![image](Users\lnaka\OneDrive\Pictures\Camera Roll)
+![image info](./pictures/Leahweb.jpg)
 
 ## Hello! I am Leah Nakaima
 
