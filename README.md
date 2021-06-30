@@ -41,7 +41,12 @@ Resume
 
 
 Contact
-
+  Name
+  Email
+  Phone
+  Twitter
+  LinkedIn
+  Smart Recruiter
 
 
 Leadership
