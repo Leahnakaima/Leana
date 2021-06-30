@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
-LinkedIn_LeahNakaima: https://www.linkedin.com/in/leah-nakaima/
+footer:
+  Links: 
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/leah-nakaima/"
