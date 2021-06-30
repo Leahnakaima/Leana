@@ -35,8 +35,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 About
 
 
+# Resume
+https://github.com/Leahnakaima/Leahnakaima/raw/main/Resume_NovoNordiskSpecialist_LeahNakaima.pdf
 
-Resume
 
 
 
